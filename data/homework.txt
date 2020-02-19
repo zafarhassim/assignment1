@@ -1,0 +1,233 @@
+000 hours (with justin bieber)
+5 seconds of summer
+a boogie wit da hoodie
+ali gatie
+anuel aa
+arcangel
+ariana grande
+arizona zervas
+ava max
+bad bunny
+benny blanco
+billie eilish
+blackbear
+brockhampton
+bts
+camila cabello
+camilo
+chris brown
+conan gray
+dababy
+daddy yankee
+dalex
+dimelo flow
+dj snake
+doja cat
+don toliver
+drake
+dua lipa
+ed sheeran
+ellie goulding
+eminem
+future
+g-eazy
+gunna and london on da track)
+gusttavo lima
+halsey
+harry styles
+henrique & juliano
+imagine dragons
+j balvin
+jack harlow
+jackboys
+james arthur
+jhay cortez
+john legend
+joji
+joker bra
+jonas brothers
+jp saxe
+juice wrld
+justin bieber
+karol g
+khalid
+kina
+kygo
+lady gaga
+lauv
+lewis capaldi
+lil baby
+lil mosey
+lil nas x
+lil tecca
+lil uzi vert
+lizzo
+luciano
+lunay
+major lazer
+maroon 5
+marshmello
+meduza
+migos
+mustard
+myke towers
+next
+niall horan
+nicky jam
+noah cyrus
+panic! at the disco
+pedro sampaio
+piso 21
+polo g
+post malone
+powfu
+pt. ii
+queen
+rauw alejandro
+regard
+reik
+rich music ltd
+roddy ricch
+rosalía
+saint jhn
+sam smith
+sech
+selena gomez
+shaed
+shakira
+shawn mendes
+stormzy
+surfaces
+tainy
+tame impala
+taylor swift
+the black eyed peas
+the weeknd
+thiaguinho mt
+tokyo’s revenge
+tones and i
+travis scott
+trevor daniel
+tu x mi
+tyga
+xxxtentacion
+y2k
+ynw melly
+
+Number of times an artist appeared on charts
+artist: ynw melly occurred: 1
+artist: y2k occurred: 1
+artist: xxxtentacion occurred: 3
+artist: tyga occurred: 1
+artist: tu x mi occurred: 1
+artist: trevor daniel occurred: 1
+artist: travis scott occurred: 3
+artist: tones and i occurred: 2
+artist: tokyo’s revenge occurred: 1
+artist: thiaguinho mt occurred: 1
+artist: the weeknd occurred: 2
+artist: the black eyed peas occurred: 1
+artist: taylor swift occurred: 2
+artist: tame impala occurred: 6
+artist: tainy occurred: 1
+artist: surfaces occurred: 1
+artist: stormzy occurred: 1
+artist: shawn mendes occurred: 2
+artist: shakira occurred: 1
+artist: shaed occurred: 1
+artist: selena gomez occurred: 2
+artist: sech occurred: 1
+artist: sam smith occurred: 3
+artist: saint jhn occurred: 1
+artist: rosalía occurred: 1
+artist: roddy ricch occurred: 2
+artist: rich music ltd occurred: 2
+artist: reik occurred: 1
+artist: regard occurred: 1
+artist: rauw alejandro occurred: 1
+artist: queen occurred: 1
+artist: pt. ii occurred: 1
+artist: powfu occurred: 1
+artist: post malone occurred: 6
+artist: polo g occurred: 1
+artist: piso 21 occurred: 1
+artist: pedro sampaio occurred: 1
+artist: panic! at the disco occurred: 1
+artist: noah cyrus occurred: 1
+artist: nicky jam occurred: 2
+artist: niall horan occurred: 1
+artist: next occurred: 1
+artist: myke towers occurred: 2
+artist: mustard occurred: 1
+artist: migos occurred: 1
+artist: meduza occurred: 2
+artist: marshmello occurred: 1
+artist: maroon 5 occurred: 2
+artist: major lazer occurred: 1
+artist: lunay occurred: 2
+artist: luciano occurred: 1
+artist: lizzo occurred: 2
+artist: lil uzi vert occurred: 1
+artist: lil tecca occurred: 1
+artist: lil nas x occurred: 1
+artist: lil mosey occurred: 1
+artist: lil baby occurred: 1
+artist: lewis capaldi occurred: 3
+artist: lauv occurred: 1
+artist: lady gaga occurred: 1
+artist: kygo occurred: 2
+artist: kina occurred: 2
+artist: khalid occurred: 1
+artist: karol g occurred: 1
+artist: justin bieber occurred: 17
+artist: juice wrld occurred: 3
+artist: jp saxe occurred: 1
+artist: jonas brothers occurred: 2
+artist: joker bra occurred: 1
+artist: joji occurred: 1
+artist: john legend occurred: 1
+artist: jhay cortez occurred: 2
+artist: james arthur occurred: 1
+artist: jackboys occurred: 1
+artist: jack harlow occurred: 1
+artist: j balvin occurred: 4
+artist: imagine dragons occurred: 1
+artist: henrique & juliano occurred: 1
+artist: harry styles occurred: 3
+artist: halsey occurred: 2
+artist: gusttavo lima occurred: 1
+artist: gunna and london on da track) occurred: 1
+artist: g-eazy occurred: 1
+artist: future occurred: 1
+artist: eminem occurred: 2
+artist: ellie goulding occurred: 1
+artist: ed sheeran occurred: 5
+artist: dua lipa occurred: 2
+artist: drake occurred: 1
+artist: don toliver occurred: 1
+artist: doja cat occurred: 1
+artist: dj snake occurred: 1
+artist: dimelo flow occurred: 1
+artist: dalex occurred: 3
+artist: daddy yankee occurred: 3
+artist: dababy occurred: 3
+artist: conan gray occurred: 1
+artist: chris brown occurred: 1
+artist: camilo occurred: 1
+artist: camila cabello occurred: 1
+artist: bts occurred: 1
+artist: brockhampton occurred: 1
+artist: blackbear occurred: 2
+artist: billie eilish occurred: 9
+artist: benny blanco occurred: 1
+artist: bad bunny occurred: 3
+artist: ava max occurred: 1
+artist: arizona zervas occurred: 1
+artist: ariana grande occurred: 1
+artist: arcangel occurred: 1
+artist: anuel aa occurred: 2
+artist: ali gatie occurred: 2
+artist: a boogie wit da hoodie occurred: 2
+artist: 5 seconds of summer occurred: 1
+artist: 000 hours (with justin bieber) occurred: 1
+
